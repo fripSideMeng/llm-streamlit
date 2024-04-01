@@ -10,7 +10,7 @@ def local_css(file_name):
 local_css("style.css")
 
 # Initialize the Hugging Face pipeline with a text generation model
-generator = pipeline('text-generation', model='Austism/chronos-hermes-13b-v2')
+generator = pipeline('text-generation', model='gpt2')
 
 st.title('Hugging Face LLM Chatbot')
 
