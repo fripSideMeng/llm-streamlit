@@ -1,0 +1,17 @@
+body {
+    background-color: greenyellow;
+}
+
+.stApp {
+    background-color: wheat;
+}
+
+.stTextInput>div>div>input {
+    color: #4f8bf9;
+}
+
+.stButton>button {
+    border: 2px solid #4f8bf9;
+    border-radius: 20px;
+    color: #4f8bf9;
+}
